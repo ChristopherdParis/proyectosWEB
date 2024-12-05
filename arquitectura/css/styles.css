@@ -188,3 +188,8 @@ img {
         font-size: 5rem;
     }
 }
+
+.slogan p {
+    margin: 0;
+    line-height: 1;
+}
