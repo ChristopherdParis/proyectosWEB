@@ -193,3 +193,16 @@ img {
     margin: 0;
     line-height: 1;
 }
+
+
+/*NOSOTROS  **/
+
+.nosotros {
+    display: grid;
+    grid-template-rows: repeat(2,1fr);
+    background-image: url(../img/nosotros.jpg);
+    background-repeat: ;
+}
+.contenido-nosotros {
+
+}
